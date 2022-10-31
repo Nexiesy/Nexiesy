@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nexiesy</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [CraftersMC](https://github.com/CraftersMC)
+- 🔭 I’m currently working on [MifoxMC](https://github.com/MifoxMC)
 
 - 📫 How to reach me **nexiesy@outlook.com**
 
